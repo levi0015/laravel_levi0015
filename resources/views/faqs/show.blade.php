@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1 style="margin: 30px 0px 0px 75px">Frequently Asked Questions</h1><br><br>
+    <h1 style="margin: 30px 0px 0px 75px">Frequently Asked Question</h1><br><br>
     <div class="grid-container">
         <div class="left">
             <table style="max-width: 1000px" class="table tablebody">
